@@ -20,7 +20,7 @@ Then open http://localhost:5000 and select the experiment `california-housing-v2
 ![MLflow runs](runs.png)
 
 ### Runs comparison
-![MLflow compare](compare.png)
+![MLflow compare](compare.png.png)
 
 ## Comparison Table
 
